@@ -24,3 +24,6 @@ kramdown:
 
 # Exclude
 exclude: ['node_modules', 'vendor']
+
+# Google Analytics
+google_analytics: 213385934
