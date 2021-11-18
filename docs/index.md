@@ -1,3 +1,7 @@
-# Test HowTo Rich Results
+---
+title: Test HowTo Rich Results
+
+layout: docs
+---
 
 This is a simple—possibly simplistic—test.
